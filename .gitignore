@@ -2,6 +2,10 @@
 !.gitattributes
 !.gitignore
 !*.cfg
+
+# Commodore 64
 !sdl-vicerc
+!sdl-joymap-C64.vjm
+
 !*/
 
